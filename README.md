@@ -11,9 +11,11 @@ Publicly discoverable authorship ledger for PresenceCognition™ glossary langua
 | Record ID | File | SHA-256 (Markdown first write) |
 |---|---|---|
 | `PC-GLOSSARY-2026-08-27-T1117Z` | [parent glossary](./PRESENCECOGNITION_GLOSSARY_PUBLIC_RECORD_2026-08-27.md) | `f75fec942e587596018dd4400edd61662e4d62ee76a5351cc88e86fdefc28112` |
-| `PC-GLOSSARY-2026-08-27-T1205Z` | [addendum](./PRESENCECOGNITION_GLOSSARY_ADDENDUM_2026-08-27.md) | `cafab44f3a615ee5a7948593bbf31c7ea9027516d8463d59ddfe067cdc1e4db2` |
+| `PC-GLOSSARY-2026-08-27-T1205Z` | [addendum VII–XIV](./PRESENCECOGNITION_GLOSSARY_ADDENDUM_2026-08-27.md) | `cafab44f3a615ee5a7948593bbf31c7ea9027516d8463d59ddfe067cdc1e4db2` |
+| `PC-GLOSSARY-2026-08-27-T1209Z` | [XVII stay creative / noise](./PRESENCECOGNITION_GLOSSARY_NOISE_2026-08-27.md) | `35634485f546497f4f6df7827df78d4dbda2fb561bd0a4c5edf7e30e400f45bf` |
 
-Addendum sections VII–XIV: #THESATELLITECALLMETHOD · CRPS/ADHD/invisible illness/inclusion · #PHOENIXOFFIRE · autonomy violations · fragile ego & insensitivity · accountability · stolen valor · boundaries & respect.
+XVII field rule: if it does not become a dated object attached to your name, it is probably noise.
 
 Quiet object. Named mark. Bound record.  
+Stay creative. The rest is noise.  
 #PresenceCognition · TM · ©
